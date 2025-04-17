@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋:D, I'm Kevin Da Rosa</h1>
-<h3 align="center">I'm a Computer Science student passionate about Web Development and DevOps. I am excited to provide high-end solutions that meet clients' needs, connect with fellow tech colleagues, and collaborate on innovative projects. My goal is to make significant contributions to the field while growing both professionally and personally.</h3>
+<h3 align="center">I'm a Computer Science student passionate about AWS Cloud Computing and DevOps. I am excited to provide high-end solutions that meet clients' needs, connect with fellow tech colleagues, and collaborate on innovative projects. My goal is to make significant contributions to the field while growing both professionally and personally.</h3>
 
 - 🌱 I’m currently learning **DevOps**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m working as **DevOps Engineer**
 
 - 👨‍💻 Most of my projects are available at **my github**
 
