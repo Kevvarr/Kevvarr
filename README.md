@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my annotations are available [here](here)
+- 👨‍💻 All of my annotations are available **Here**
 
 - 📫 How to reach me **kevin.darosa.uptp@gmail.com**
 
